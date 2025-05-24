@@ -1,5 +1,3 @@
-**Platform Improvement**
-
-Starter code for creating a platformer game using Arcade Phsyics in Phaser.
+platformer project for cse 120
 
 Visual assets courtesy of [Kenny Assets](https://kenney.nl/assets), with gratitude.
